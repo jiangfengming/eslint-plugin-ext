@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ext",
-  "version": "0.0.0",
+  "version": "0.1.0-0",
   "description": "eslint extended rules",
   "main": "index.js",
   "scripts": {
