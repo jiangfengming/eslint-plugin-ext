@@ -15,7 +15,7 @@ Edit `.eslintrc.json`:
   ],
 
   "rules": {
-    "ext/lines-between-object-properties": ["error", "always", { "exceptBetweenSingleLines": true }],
+    "ext/lines-between-object-properties": ["error", "always", { "exceptBetweenSingleLines": true }]
   }
 }
 ```
